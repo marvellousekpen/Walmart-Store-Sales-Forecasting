@@ -25,4 +25,4 @@ The data is sourced from <a href="https://www.kaggle.com/datasets/gustavoserafim
   
 
 ### DATA IMPORTATION 
-Imported multiple CSV files into SQL using Python.
+Imported multiple CSV files into SQL using Python. <a href="https://github.com/marvellousekpen/Walmart-Store-Sales-Forecasting/blob/main/Walmart.ipynb">View my Code</a>
