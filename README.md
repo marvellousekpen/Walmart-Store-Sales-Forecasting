@@ -14,15 +14,15 @@ The Walmart’s Sales Strategy Manager needs clear insights into sales trends bu
 -  Performance distribution across store types  
 
 
-## DATA SOURCE
+### DATA SOURCE
 The data is sourced from <a href="https://www.kaggle.com/datasets/gustavoserafim/walmart-recruiting-store-sales-forecasting-gsr">Kaggle</a>
 
-## SKILLS/CONCEPTS DEMONSTRATED
+### SKILLS/CONCEPTS DEMONSTRATED
 
 - **Data Import & Integration:** Imported multiple CSV files into SQL using Python.  
 - **SQL Querying & Optimization:** Utilized JOINS, CTEs, subqueries, and functions for in-depth analysis.  
 - **Data Aggregation & Trend Analysis:** Applied aggregation techniques to uncover sales trends and performance insights.
   
 
-## DATA IMPORTATION 
+### DATA IMPORTATION 
 Imported multiple CSV files into SQL using Python.
