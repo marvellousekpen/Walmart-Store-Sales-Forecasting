@@ -19,9 +19,10 @@ The data is sourced from <a href="https://www.kaggle.com/datasets/gustavoserafim
 
 ## SKILLS/CONCEPTS DEMONSTRATED
 
--Data Import & Integration: Imported multiple CSV files into SQL using Python.
--SQL Querying & Optimization: Utilized JOINS, CTEs, subqueries, and functions for in-depth analysis.
--Data Aggregation & Trend Analysis: Applied aggregation techniques to uncover sales trends and performance insights.
+- **Data Import & Integration:** Imported multiple CSV files into SQL using Python.  
+- **SQL Querying & Optimization:** Utilized JOINS, CTEs, subqueries, and functions for in-depth analysis.  
+- **Data Aggregation & Trend Analysis:** Applied aggregation techniques to uncover sales trends and performance insights.
+  
 
 ## DATA IMPORTATION 
 Imported multiple CSV files into SQL using Python.
