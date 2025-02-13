@@ -4,6 +4,7 @@ The objective of this analysis is to evaluate sales performance and identify var
 
 ## PROBLEM STATEMENT
 The Walmart’s Sales Strategy Manager, needs clear insights into sales trends but struggles with complex reports and limited BI support. He aims to identify patterns, measure markdown effectiveness, and understand holiday sales impact to drive better decisions. Using SQL, this analysis will uncover key metrics:
+
 -Sales trends over time?
 -Four-week moving average?
 -Percentage change in sales?
