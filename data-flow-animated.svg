@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Definitions for animations -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+    
+    <!-- Animation path for the dots -->
+    <path id="motionPath" d="M150 100 L250 100" fill="none"/>
+    
+    <!-- Moving dot animation -->
+    <circle id="dot" cx="0" cy="0" r="3" fill="#333">
+      <animateMotion 
+        dur="2s"
+        repeatCount="indefinite"
+        path="M0 0 L100 0"
+      />
+    </circle>
+  </defs>
+  
+  <!-- Python Box -->
+  <rect x="50" y="60" width="100" height="80" rx="10" fill="#306998"/>
+  <text x="100" y="105" text-anchor="middle" fill="white" font-family="Arial">Python</text>
+  
+  <!-- SQL Box -->
+  <rect x="250" y="60" width="100" height="80" rx="10" fill="#DE8C02"/>
+  <text x="300" y="105" text-anchor="middle" fill="white" font-family="Arial">SQL</text>
+  
+  <!-- Animated Arrow Line -->
+  <line x1="150" y1="100" x2="250" y2="100" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Moving Dots -->
+  <use href="#dot" x="150" y="100">
+    <animateMotion 
+      dur="2s"
+      repeatCount="indefinite"
+      path="M0 0 L100 0"
+    />
+  </use>
+  <use href="#dot" x="150" y="100">
+    <animateMotion 
+      dur="2s"
+      begin="0.6s"
+      repeatCount="indefinite"
+      path="M0 0 L100 0"
+    />
+  </use>
+  <use href="#dot" x="150" y="100">
+    <animateMotion 
+      dur="2s"
+      begin="1.2s"
+      repeatCount="indefinite"
+      path="M0 0 L100 0"
+    />
+  </use>
+</svg>
