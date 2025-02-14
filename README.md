@@ -26,3 +26,18 @@ The data is sourced from <a href="https://www.kaggle.com/datasets/gustavoserafim
 
 ### DATA IMPORTATION 
 Imported multiple CSV files into SQL using Python. <a href="https://github.com/marvellousekpen/Walmart-Store-Sales-Forecasting/blob/main/Walmart.ipynb">View my Code</a>
+
+### VALIDATION - CALCULATING THE POTENTIAL ROI
+For this analysis, I included a breakdown of the calculations used to evaluate sales performance. Using SQL, I analyzed key metrics to assess the impact of markdowns and sales trends across Walmart stores.
+
+This breakdown includes:
+
+Calculating the 4-week moving average to smooth out sales trends over time.
+Determining percentage change in sales to track growth or decline.
+Analyzing markdown effectiveness by comparing sales before and after markdowns.
+Evaluating holiday sales impact by comparing holiday vs. non-holiday sales.
+Assessing performance distribution across store types to identify top-performing stores.
+These calculations provide actionable insights into sales trends, markdown strategies, and store performance, helping optimize revenue and pricing strategies.
+
+## PROJECT DONE
+<a href="">Project Code</a>
