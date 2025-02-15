@@ -1,5 +1,5 @@
 # Walmart-Store-Sales-Forecasting
-https://github.com/marvellousekpen/Walmart-Store-Sales-Forecasting/blob/main/data-flow-animated.svg"
+![](https://github.com/marvellousekpen/Walmart-Store-Sales-Forecasting/blob/main/data-flow-animated.svg").
 ## INTRODUCTION
 The objective of this analysis is to evaluate sales performance and identify various factors that influence it.
 
