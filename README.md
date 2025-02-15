@@ -53,11 +53,13 @@ These calculations provide actionable insights into sales trends, markdown strat
 -Negative percentage changes are more frequent, indicating challenges in maintaining consistent sales growth outside of peak periods.
 
 ### Recommendations
--The sales trend data reveals significant opportunities during holiday periods and challenges during off-peak times. By leveraging seasonal trends, addressing low sales periods, and maintaining consistent marketing efforts, you can optimize sales performance and drive consistent growth. Implementing data-driven strategies and focusing on customer retention will help you adapt to changing market conditions and maximize revenue.
+- The sales trend data reveals significant opportunities during holiday periods and challenges during off-peak times. By leveraging seasonal trends, addressing low sales periods, and maintaining consistent marketing efforts, you can optimize sales performance and drive consistent growth. Implementing data-driven strategies and focusing on customer retention will help you adapt to changing market conditions and maximize revenue.
 
--Plan Robust marketing strategy, promotions, and inventory stocking around holiday periods (November and December) to capitalize on the high demand.
+- Plan Robust marketing strategy, promotions, and inventory stocking around holiday periods (November and December) to capitalize on the high demand.
 
-- Implement strategies to mitigate the sharp post-holiday sales decline, such as clearance sales or loyalty programs to retain customers.\- Investigate the root causes of sales declines during off-peak periods (e.g., lack of promotions, inventory issues, or external factors).
+- Implement strategies to mitigate the sharp post-holiday sales decline, such as clearance sales or loyalty programs to retain customers.
 
--Run targeted promotions or discounts during traditionally low-performing weeks to boost sales.
+- Investigate the root causes of sales declines during off-peak periods (e.g., lack of promotions, inventory issues, or external factors).
+
+- Run targeted promotions or discounts during traditionally low-performing weeks to boost sales.
 
