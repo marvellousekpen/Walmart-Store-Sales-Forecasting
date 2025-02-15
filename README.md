@@ -34,10 +34,15 @@ For this analysis, I included a breakdown of the calculations used to evaluate s
 This breakdown includes:
 
 Calculating the 4-week moving average to smooth out sales trends over time.
+
 Determining percentage change in sales to track growth or decline.
+
 Analyzing markdown effectiveness by comparing sales before and after markdowns.
+
 Evaluating holiday sales impact by comparing holiday vs. non-holiday sales.
+
 Assessing performance distribution across store types to identify top-performing stores.
+
 These calculations provide actionable insights into sales trends, markdown strategies, and store performance, helping optimize revenue and pricing strategies.
 
 ### PROJECT DONE
